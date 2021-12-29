@@ -60,19 +60,19 @@ let logic3 = soma == sub
 
 // 16 - Declare uma variável com o identificador 'logic4' que receba uma operação booleana que compare se a variável
 // mult e o valor numérico 15 são iguais.
-
+let logic4 = mult == 15
 
 // 17 - Diminua -3 do valor atual da variável 'soma' já declarada, usando o operador de atribuição de subtração "-="
-
+soma-=3
 
 // 18 - Adicione +8 do valor atual da variável 'sub' já declarada, usando o operador de atribuição de soma "+="
-
+sub+=8
 
 // 19 - Divida por 2 o valor atual da variável 'mult' já declarada, usando o operador de atribuição de divisão "/="
-
+mult/=2
 
 // 20 - Multiplique por 3 o valor atual da variável 'sub' já declarada, usando o operador de atribuição de multiplicação "*="
-
+sub*=3
 
 
 /* 
